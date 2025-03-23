@@ -1,0 +1,13 @@
+name = "Show Keybinds"
+filename = "showkeybinds-fabric-mc-1.21.4-v-4.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zaElPFa3/versions/1bDHjHsx/showkeybinds-fabric-mc-1.21.4-v-4.1.1.jar"
+hash-format = "sha512"
+hash = "1dc9c7e5376ebae4db1892514aaa8216e174aea13fa17a6631ec27f53ad0942a9250c6423972cd25087a796c307fb83338cf9f4709dc36805736d9127bdbc52b"
+
+[update]
+[update.modrinth]
+mod-id = "zaElPFa3"
+version = "1bDHjHsx"
