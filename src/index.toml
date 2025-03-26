@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "7d73e88045e39585ed44133072365404a37229e66f3f0e7995b6e722f22894f3"
+hash = "b9799a838e2bf801ef403cd0d6d023cc01106d4d294df29b5671f901e3c61c28"
 metafile = true
 
 [[files]]
@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "cbb8156afa51dc715bb7438e65da148afee8394f7faffb26f01e0604bc455a3b"
+hash = "f80e1d742e4a75ccb3846c48fb8b6ef72a32852bfe727d853615416d7e9c267e"
 metafile = true
 
 [[files]]
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6f401ef69f355048385146209db2c5eabb8173969f9bddb7955706efa036808f"
+hash = "d1a2a4ef509bb718243d16e2950b1289f286428c3067685f4ef40f4ec4f8a0a6"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "81ea6ca456261caaf5df55f5e5ba0dfbf04e9daf23cd93e00c35cec4d3fb27b3"
+hash = "f27d2387b3236378fca54f60d940a7d543f4c479497735b4a16a334705981103"
 metafile = true
 
 [[files]]
@@ -174,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
 hash = "fa24bb41ce81fff1289c07fa4e3cd424f7c87a87f2cfdfa63992bb77ba575df4"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
@@ -258,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/showkeybinds.pw.toml"
-hash = "6908be96c5d49dd1b3eb35a0c308bdcb41f9736f6467439bf5b0e656125e3a4e"
+hash = "16dc62534bae701ece2e2dfdefdf02281e52416d3b56a878c811ff9256fe0cf9"
 metafile = true
 
 [[files]]
@@ -283,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "8559edeaf210c9a83de3dc51b6041ce3ad27368ffb6a81fd6f39d7a9334198f2"
+hash = "3273d96b0b01d6d976741979c1a66965665522548de69bba69a6f30d9a0c8c9f"
 metafile = true
 
 [[files]]
