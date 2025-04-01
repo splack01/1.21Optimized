@@ -8,4 +8,4 @@ This repo exists solely to host the modpack—nothing fancy. Enjoy!
 
 Use [packwiz-installer](https://github.com/packwiz/packwiz-installer).
 
-Pack file: `https://splack.is-a.dev/1.21Optimized/src/pack.toml`
+Pack file: `https://splack.xyz/1.21Optimized/src/pack.toml`
