@@ -18,7 +18,7 @@ hash = "e2c15aaa6317c7286554e5edf2097264ff68108bdd543402b76657f1fbcde9af"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "04277af31d7c79fcfa5d134c040fbec38db299875b6ba92db0d184bc1f5d9593"
+hash = "f535691eee4ea23eefb9e606b1fe2085f6dad8dab4c6bd3581ba9106a608ad8b"
 metafile = true
 
 [[files]]
@@ -48,12 +48,12 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "a0121bf6b9ec061c3c5a558a1e4b2e1237d293767af2f8a6c1e968260d9500b4"
+hash = "f993b9f7d80f9932cb9928cec78eeb90854e39bc927758a9f497a845716c177c"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1d5db1bb916b7efc637eb38dd583ded0765aec883faa30f3cf2464b1e82e1d40"
+hash = "62e99d55c3f95e732fbbb23572c70bd030a6c89f90844b8a74d1e527c0183696"
 metafile = true
 
 [[files]]
@@ -78,17 +78,17 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "88ae050b15aaa9fb5b8ffe5df53e2b8407cb5217dde64241107c11509c2fd657"
+hash = "a598c30d51764141713c3871c44497bc420d602f9a378c28fc8f49c269fac386"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "f80e1d742e4a75ccb3846c48fb8b6ef72a32852bfe727d853615416d7e9c267e"
+hash = "70736e594e6023d68367510f699f99aa8b26c84fa6ad0d656fbf08c70539d991"
 metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "d7bc58034de4a1afb4702d0038b9849e7d2664a85d460f3a05a29b4df1a230fc"
+hash = "1911f529012bae6e7746e820e56fdcf791e053e9e9c6450fbdf6a23a742d9e8b"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c666d4a01300098976b31693779d4f6130e939a6275823f0e8995921401d65a8"
+hash = "a63069aac3fc618562c8f4fa4f76e0bd3625a90f53d1dc3ff4974862d54dde20"
 metafile = true
 
 [[files]]
@@ -168,12 +168,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
-hash = "fa24bb41ce81fff1289c07fa4e3cd424f7c87a87f2cfdfa63992bb77ba575df4"
+hash = "848f1eed33d9b8a7e2dcfa87e11067ef3672301265c3e4deed01c0fc88268880"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "51bd7e107aa83b794b184e71bec88976aeb4ee4c8b6cb101c8c71a24ce23f1c9"
+hash = "cdff637d469d95a02e8e7475fce950c0d25bdacf8ae1246c93eea78ad7e16d39"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "9a53bc41ea5265170f6a87285744c158834881ec706c68c2b8101f740396b36b"
+hash = "35ab1c638ca39eccdcee2e76ee7c771930fc3e1788a76afcaa75e6d4c0efed71"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "ff46d9d0cb8e6c228b93508bef548f1011c802b63c8f90324e39ea5875ba5e32"
+hash = "e8667fc66e5424491f4c57590537d2e0248a72fd28068f740b8ab9b86d3951ba"
 metafile = true
 
 [[files]]
@@ -338,5 +338,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rudimentary-ps1.pw.toml"
-hash = "5bc803d7ec1a40c0e27604e4994a7c98ecaa2d3b89843380757bc74d6ecb2bf8"
+hash = "1815582757d7c171334e885ef8f4f243eefbf4032f6f7f8ed6e2ec13596d5a26"
 metafile = true
