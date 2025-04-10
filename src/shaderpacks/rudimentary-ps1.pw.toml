@@ -1,13 +1,13 @@
 name = "Rudimentary"
-filename = "Rudimentary-v7.3.zip"
+filename = "Rudimentary-v8.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uEj359Zz/versions/rTuK8cwh/Rudimentary-v7.3.zip"
+url = "https://cdn.modrinth.com/data/uEj359Zz/versions/DXqH0y1T/Rudimentary-v8.0.zip"
 hash-format = "sha512"
-hash = "544bf51e1e87458a068f0e1326e20fcdc7ae191a060166c7c55e001a80b36f84b6381be6d341372b22e79040bb316962c79235ee8aae6c5810638733ec4bc40b"
+hash = "ac4f3c562bbbe3a8830f8a34c0e3bec4c75fc9a6bc61557c4e098d6d896568b952d46f81d1d8c02030dbbca86250c9e752f0223b4e8bc6e19138b750e1f43e78"
 
 [update]
 [update.modrinth]
 mod-id = "uEj359Zz"
-version = "rTuK8cwh"
+version = "DXqH0y1T"
