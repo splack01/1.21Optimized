@@ -5,16 +5,20 @@ file = "config/inventoryhud.json"
 hash = "f62339fb17d53b5e01dca0d286a246652cec32543742b53d8a3ecff3993c565e"
 
 [[files]]
-file = "config/paperdoll-client.toml"
-hash = "0b119282239eb22d4281980f7d67fb175613b5b8d80b8c442d6ba0098391a662"
-
-[[files]]
 file = "config/replaymod.json"
 hash = "c9a9178eb72370e85a23a2c82e549e444fb669dc0dddac60877f05c88c4836ed"
 
 [[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "55d351a644b313f3d5da02a3c11bc5bcb90c83ec5d0a9102b2ad900600628e4f"
+
+[[files]]
 file = "config/showkeybinds.json"
 hash = "e2c15aaa6317c7286554e5edf2097264ff68108bdd543402b76657f1fbcde9af"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "919389b56fe4d236c8f5958c3f6b3a6d95ebba053b450e4eb2c935827ee305ad"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -33,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
@@ -58,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
+hash = "a8b8e89a322aae5f20d15a3aa21cd5f47e14853f36b9303e3ef0fa717660115a"
 metafile = true
 
 [[files]]
@@ -78,12 +82,17 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "a598c30d51764141713c3871c44497bc420d602f9a378c28fc8f49c269fac386"
+hash = "c650281609691743f9171291b526e0cae14b5019c0836b4bb60371fc1026e45d"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
 metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "70736e594e6023d68367510f699f99aa8b26c84fa6ad0d656fbf08c70539d991"
+hash = "f82e56c338c03436592a3e9746d0383f0d48e51bcbbf820917a1c40008a486b4"
 metafile = true
 
 [[files]]
@@ -92,13 +101,8 @@ hash = "1911f529012bae6e7746e820e56fdcf791e053e9e9c6450fbdf6a23a742d9e8b"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d1a2a4ef509bb718243d16e2950b1289f286428c3067685f4ef40f4ec4f8a0a6"
+hash = "19183871606b6b95796af7ca4a16b81aa8cf29f22df8bb2fbd8dd6e9a66b5a63"
 metafile = true
 
 [[files]]
@@ -159,6 +163,16 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "114968e70a3e2c2f7a33db6ed305256585353361a28210a0b872df52fc5542aa"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "2a720421b396db4fc37821e587b19208f5a48769f9c39bbadca04694140e8ec7"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "dafb84b20ceb9f80a2f98170a05b90a7225bc476f64593af2a51d332055b2e8b"
 metafile = true
 
 [[files]]
@@ -227,18 +241,8 @@ hash = "0174305d98ff9de858f3b865eb1aa21afbdc26c0cc523b34625a9f60b4a5c58c"
 metafile = true
 
 [[files]]
-file = "mods/paper-doll.pw.toml"
-hash = "47621c89578467ff300c600aeb48059c96764b9531e629cce8df43559c9dc60a"
-metafile = true
-
-[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "cdff637d469d95a02e8e7475fce950c0d25bdacf8ae1246c93eea78ad7e16d39"
 metafile = true
 
 [[files]]
@@ -277,8 +281,18 @@ hash = "85791fa451cf617018216b31694955b239f18ae00636179f35bf7981dcaf3a81"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extras.pw.toml"
+hash = "30fc7545fc027bc3d3dd3e082c17281dfe7399aaaff6d1700ef7467ef873e3db"
+metafile = true
+
+[[files]]
 file = "mods/sodium-options-api.pw.toml"
 hash = "a6d93582bc5ec895d85d2e0859e4c39628dbc4c3cebf1135bcae4d9b71a7036e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-mod-compat.pw.toml"
+hash = "f77e8e3736fb3467057d396baeb23b7625cf72e220ce86cbae8df8b6f5fee162"
 metafile = true
 
 [[files]]
@@ -289,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "3273d96b0b01d6d976741979c1a66965665522548de69bba69a6f30d9a0c8c9f"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "12be500b44b1ac597f18d43f9d84d5aed87c75fdf1b1c8ac9cc1a93f1a128f8e"
 metafile = true
 
 [[files]]
@@ -317,8 +336,8 @@ hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
+file = "resourcepacks/stay-true.pw.toml"
+hash = "ef5b6f782b01557fa3af806aa06215aa15f7902619752052a2abf44e8ea7e723"
 metafile = true
 
 [[files]]
@@ -328,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b90b25b61edd0dfe3bb3074e2343351c7a427d24bb1fa42c642a157b0fd887e4"
+hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
 
 [[files]]
@@ -338,5 +357,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rudimentary-ps1.pw.toml"
-hash = "1815582757d7c171334e885ef8f4f243eefbf4032f6f7f8ed6e2ec13596d5a26"
+hash = "ec5b0e11ec8e1d6d1af63e2ea47a46970439feb0b6cd7429cc5da36d0b7f6832"
 metafile = true
