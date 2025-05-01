@@ -1,11 +1,15 @@
 # 1.21 Optimized
 
-A lightweight **Minecraft 1.21** modpack for **Fabric**, focused on **performance** and **quality of life improvements**. Built with [packwiz](https://github.com/packwiz) for **easy installation, version control, and updates**.
+A lightweight **Minecraft 1.21** modpack for **Fabric**, focused on **performance** and **quality of life improvements**. Built with [packwiz](https://github.com/packwiz/) for **easy installation, version control, and updates**.
 
-This repo exists solely to host the modpack—nothing fancy. Enjoy!
+> ⚡ This repo exists solely to host the modpack—no bloat, no extras. Just install and play.
 
-### Usage
+### 📦 Installation
 
-Use [packwiz-installer](https://github.com/packwiz/packwiz-installer).
+For step-by-step instructions on how to install and update the **1.21 Optimized** modpack, check out the [official packwiz installer guide](https://packwiz.infra.link/tutorials/installing/packwiz-installer/).
 
-Pack file: `https://splack.xyz/1.21Optimized/src/pack.toml`
+**Pack file URL (for use with packwiz installer):**
+
+```
+https://raw.githubusercontent.com/splack01/1.21Optimized/main/src/pack.toml
+```
