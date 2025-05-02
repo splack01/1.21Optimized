@@ -121,11 +121,6 @@ hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
-file = "mods/fabrictailor.pw.toml"
-hash = "09e607815241534292821bec96ba3814548169e05d40c154ed99a76dea06c27a"
-metafile = true
-
-[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
 metafile = true
@@ -268,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/showkeybinds.pw.toml"
 hash = "16dc62534bae701ece2e2dfdefdf02281e52416d3b56a878c811ff9256fe0cf9"
+metafile = true
+
+[[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "49ad51636e088cccac0b5d88c7b24994b25677982ccb0cfc31830dac9f990d2f"
 metafile = true
 
 [[files]]
