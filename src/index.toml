@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-plus.pw.toml"
-hash = "f993b9f7d80f9932cb9928cec78eeb90854e39bc927758a9f497a845716c177c"
+hash = "c62ded87bfe165a691ab2845149b09788d9a0cb308e44ee7ee6507c846e9bdb3"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "f82e56c338c03436592a3e9746d0383f0d48e51bcbbf820917a1c40008a486b4"
+hash = "7a9f3a8f617b752cb4df059142ca3f4878b98fca9f71df5ca65ec97102e10ffb"
 metafile = true
 
 [[files]]
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "19183871606b6b95796af7ca4a16b81aa8cf29f22df8bb2fbd8dd6e9a66b5a63"
+hash = "04851cf23a0fef9e213180bf5926b705c5ad2d0b04d41934b915cc1ccfabd841"
 metafile = true
 
 [[files]]
@@ -112,17 +112,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "41504449b69a32068d2db598dfbc8d3690690e16a3a6d5cc1af256fbead1f653"
+hash = "0c689e71c7c6e5893deaa96881213505439e23273cfbb216d918c416c0124458"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "f27d2387b3236378fca54f60d940a7d543f4c479497735b4a16a334705981103"
+hash = "aeee628da27bde07e28866859d52ce5f45e45fb39fcc4e5cb48cfb9174b3cc69"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-realms-button.pw.toml"
-hash = "bcee3e154e5b4502a2596521791e0e041bd28c40f0560e29d37505cd2fe74ae7"
+hash = "fc1a1e3742d131af02588fd04a63aae13af45f662aacaac58887f414646d77cf"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "49ad51636e088cccac0b5d88c7b24994b25677982ccb0cfc31830dac9f990d2f"
+hash = "0920fcd04035d1d58e27079daf26e90a667e613bb578b38c27bfdfb2e12a4af5"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "12be500b44b1ac597f18d43f9d84d5aed87c75fdf1b1c8ac9cc1a93f1a128f8e"
+hash = "870a57469e507f2f44d764446223ebbee85ad1808d913936202e584c337792fd"
 metafile = true
 
 [[files]]
@@ -322,17 +322,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9325b307b5396a19c7cb40298491652770c37c4d52c2993474f7916aee970c55"
+hash = "a20ee20449ce5cbdb0a1e6a3d9d37b2e764425e4f57a02b3537e97231b3ac831"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2c4a9d332322cfb1234c8b90f474b5b23ae487c706b7e1e00a0dc7dcf53bb306"
+hash = "89f2eb96071dd55c7f57f62be9157e25aed43402329b8fd8520e8bd9e2fe21ec"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
+hash = "10f163a2191248c9e512c162a4697e954df7d4a5d837260ec01ac81be6c5447d"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "cfb57ffe639b04b5aee53ca280aad97e5c94395059a049a47b24af0660776904"
+hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
 metafile = true
 
 [[files]]
@@ -352,10 +352,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/miniature-shader.pw.toml"
-hash = "5029e1e04335fef6bbb0bcd87dc8f9908e1b6e47b3a735fb00e735e69d3fafba"
+hash = "0ef2a83811fe5e96469632f692dbf921e6343acd84d6090c4fda959d569fd3a6"
 metafile = true
 
 [[files]]
 file = "shaderpacks/rudimentary-ps1.pw.toml"
-hash = "ec5b0e11ec8e1d6d1af63e2ea47a46970439feb0b6cd7429cc5da36d0b7f6832"
+hash = "c0c75a1dfe85123e6aa4ab8cc719bd37375785fe5180e47654eb0efe16aa8d74"
 metafile = true
